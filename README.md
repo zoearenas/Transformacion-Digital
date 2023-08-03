@@ -9,7 +9,9 @@
 
 
 ## *Problemática y solución propuesta*
-El consumo de papel para generar listas de asistencia ha aumentado más del 50%, además de esto hay colaboradores que olvidan completamente hacer su registro directamente en la hoja de asistencia,  es por ello que se diseñó una solución tecnológica, la cual apoyará directamente al llenado de información y captura digital al momento de que alguien realice su registro.
+El consumo de papel para generar listas de asistencia ha aumentado más del 50%, además de esto hay colaboradores que olvidan completamente hacer su registro directamente en la hoja de asistencia,  es por ello que se diseñó una solución tecnológica directamente en Power Automate, la cual apoyará directamente al llenado de información y captura digital al momento de que alguien realice su registro.
+
+![Captura de pantalla 2023-08-03 115425](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/1dd8ebce-4b5b-47fb-a0d8-7c3f3a12a224)
 
 Además de esto, la manera de difusión sería completamente digital y a través de los medios de comunicación correspondiente para que los interesados registren su asistencia de forma virtual.
 
