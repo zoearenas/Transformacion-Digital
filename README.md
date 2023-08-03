@@ -1,4 +1,4 @@
-# Transformacion-Digital
+# Transformacion-Digital⭐️
 Repositorio sobre transformación digital
 
 
@@ -7,7 +7,7 @@ Repositorio sobre transformación digital
 ![banner sala de juntas](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/d0790e81-8ab7-4d09-92d1-5c0208586892)
 
 
-## Temario
+## Puntos a revisar
 
 ## ✅Problemática
 ## ✅Solución propuesta
