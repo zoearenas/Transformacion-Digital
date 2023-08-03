@@ -29,7 +29,8 @@ Además de esto, la manera de difusión sería completamente digital y a través
 
 2.Llenar el apartado de información correspondiente, este incluye Fecha e registro, Hora de ingreso a la oficina y Oficina de ingreso.
 
-![CAPTURA1MANUALLISTA](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/bedba089-d1ce-431e-abc6-49c127e35877)
+![CAPTURA1MANUALLISTA](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/c60995c1-57a0-4e8a-9f2b-e9c135aa9ed5)
+
 
 
 3.Enviar respuesta.
