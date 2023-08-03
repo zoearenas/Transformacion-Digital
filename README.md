@@ -9,17 +9,18 @@ Repositorio sobre transformación digital
 
 ## Puntos a revisar
 
-## ✅Problemática
-## ✅Solución propuesta
+## ✅Problemática y solución propuesta
 ## ✅Manual de usuario
 
 
 ## Problemática
+El consumo de papel para generar listas de asistencia ha aumentado más del 50%, además de esto hay colaboradores que olvidan completamente hacer su registro directamente en la hoja de asistencia,  es por ello que se diseñó una solución tecnológica, la cual apoyará directamente al llenado de información y captura digital al momento de que alguien realice su registro.
 
-*  **Join LaunchX-InnovaccionVirtual**
+Además de esto, la manera de difusión sería completamente digital y a través de los medios de comunicación correspondiente para que los interesados registren su asistencia de forma virtual.
 
+![Código QR para Lista de asistencia MGCS (1)](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/16c12305-2417-463e-8b44-2fa4e4206a3a)
 
-## Taller de GitHub 101 
+## 
 
 ### [Parte 1](https://www.youtube.com/watch?v=OIE9r0J1iRk)
 
