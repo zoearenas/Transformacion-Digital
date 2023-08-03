@@ -1,10 +1,7 @@
 # Transformacion-Digital⭐️
-Repositorio sobre transformación digital
+Automatización de registro de asistencia
 
-
-# Organización de reservas para sala de juntas
-
-![banner sala de juntas](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/2c3f9361-bb73-405e-98ab-a0f022e904be)
+![2](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/e51f7d07-5043-455a-988e-b46f8cdf5eb4)
 
 ## Puntos a revisar
 
