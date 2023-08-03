@@ -4,8 +4,7 @@ Repositorio sobre transformación digital
 
 # Organización de reservas para sala de juntas
 
-![banner sala de juntas](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/d0790e81-8ab7-4d09-92d1-5c0208586892)
-
+![banner sala de juntas](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/2c3f9361-bb73-405e-98ab-a0f022e904be)
 
 ## Puntos a revisar
 
@@ -18,7 +17,7 @@ El consumo de papel para generar listas de asistencia ha aumentado más del 50%,
 
 Además de esto, la manera de difusión sería completamente digital y a través de los medios de comunicación correspondiente para que los interesados registren su asistencia de forma virtual.
 
-![Código QR para Lista de asistencia MGCS (1)](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/16c12305-2417-463e-8b44-2fa4e4206a3a)
+![Código QR para Lista de asistencia MGCS (1)](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/5d0cc15b-6bff-4f7d-8e67-d61b82b3b068)
 
 ## *Manual de usuario*
 
