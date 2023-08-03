@@ -22,7 +22,19 @@ Además de esto, la manera de difusión sería completamente digital y a través
 
 ## *Manual de usuario*
 
-1.Ingresar a la liga correspondiente: (https://forms.office.com/r/S3xKuS6AwC)
+1.Ingresar a la liga correspondiente: https://forms.office.com/r/S3xKuS6AwC con la cuenta empresarial (NOTA: El formulario solo se encuentra disponible para la empresa, ya que registra información directa del colaborador al momento de abrirlo)
+
+![image](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/01b7c353-b6f0-4afa-a616-aeaedd44d956)
+
+
+2.Llenar el apartado de información correspondiente, este incluye Fecha e registro, Hora de ingreso a la oficina y Oficina de ingreso.
+
+![CAPTURA1MANUALLISTA](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/bedba089-d1ce-431e-abc6-49c127e35877)
+
+
+3.Enviar respuesta.
+
+4.Se recibirá un correo electrónico con la siguiente información
 
 
 
