@@ -20,7 +20,10 @@ Además de esto, la manera de difusión sería completamente digital y a través
 
 ![Código QR para Lista de asistencia MGCS (1)](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/16c12305-2417-463e-8b44-2fa4e4206a3a)
 
-## 
+## *Manual de usuario*
+
+1.Ingresar a la liga correspondiente: (https://forms.office.com/r/S3xKuS6AwC)
+
 
 
 
