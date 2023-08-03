@@ -44,6 +44,13 @@ Además de esto, la manera de difusión sería completamente digital y a través
 *Este correo contiene el registro qué se realizó en el formulario además de ña liga de acceso directo a la lista de asistencia en tiempo real, este correo es automático y está conectado al flujo de trabajo.*
 
 
-
+Con este proceso el registro de asistencia será mucho más automatizado y sobretodo habrá un control directo.
+*
+*
+*
+*
+*
+*
+*
 
 
