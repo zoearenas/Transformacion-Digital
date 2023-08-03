@@ -13,7 +13,7 @@ Repositorio sobre transformación digital
 ## ✅Manual de usuario
 
 
-## *Problemática*
+## *Problemática y solución propuesta*
 El consumo de papel para generar listas de asistencia ha aumentado más del 50%, además de esto hay colaboradores que olvidan completamente hacer su registro directamente en la hoja de asistencia,  es por ello que se diseñó una solución tecnológica, la cual apoyará directamente al llenado de información y captura digital al momento de que alguien realice su registro.
 
 Además de esto, la manera de difusión sería completamente digital y a través de los medios de comunicación correspondiente para que los interesados registren su asistencia de forma virtual.
