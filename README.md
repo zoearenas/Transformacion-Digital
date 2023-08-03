@@ -1,5 +1,4 @@
 # Transformacion-Digital⭐️
-Automatización de registro de asistencia
 
 ![2](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/e51f7d07-5043-455a-988e-b46f8cdf5eb4)
 
