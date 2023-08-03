@@ -9,13 +9,15 @@ Repositorio sobre transformación digital
 
 ## Temario
 
-## Crear una solicitud de incorporación de cambios
-## Crear una solicitud de incorporación de cambios
+## ✅Problemática
+## ✅Solución propuesta
+## ✅Manual de usuario
 
-## Creando una cuenta de GitHub
-@@ -136,16 +138,6 @@ Para ser parte de la organización en GitHub, debemos hacer lo siguiente:
-* Tenemos nuestra invitación a la organización en GitHub y sólo debemos dar clic en **Join LaunchX-InnovaccionVirtual**
-* Ahora eres miembro de la organización en GitHub
+
+## Problemática
+
+*  **Join LaunchX-InnovaccionVirtual**
+
 
 ## Taller de GitHub 101 
 
