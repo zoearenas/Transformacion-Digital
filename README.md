@@ -24,9 +24,10 @@ Además de esto, la manera de difusión sería completamente digital y a través
 ![image](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/01b7c353-b6f0-4afa-a616-aeaedd44d956)
 
 
-2.*Llenar el apartado de información correspondiente, este incluye Fecha e registro, Hora de ingreso a la oficina y Oficina de ingreso.*
+2.*Llenar el apartado de información correspondiente, este incluye Oficina de ingreso.*
 
-![CAPTURA1MANUALLISTA](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/c60995c1-57a0-4e8a-9f2b-e9c135aa9ed5)
+
+![IO](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/e02dc71f-6157-40a3-a93c-d8f831e2c5fa)
 
 
 3.*Enviar respuesta.*
@@ -37,18 +38,10 @@ Además de esto, la manera de difusión sería completamente digital y a través
 
 4.*Se recibirá un correo electrónico con la siguiente información:*
 
-![CAPTURA4MANUALLISTA](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/db77b0b4-1b1e-461a-b1eb-cbd406004514)
+![io2](https://github.com/zoearenas/Transformacion-Digital/assets/141276394/2c815d74-579d-4d48-a8f6-cfe58a8b96b2)
 
-*Este correo contiene el registro qué se realizó en el formulario además de ña liga de acceso directo a la lista de asistencia en tiempo real, este correo es automático y está conectado al flujo de trabajo.*
+*Este correo contiene el registro qué se realizó en el formulario además de la liga de acceso directo a la lista de asistencia en tiempo real, este correo es automático y está conectado al flujo de trabajo.*
 
 
 Con este proceso el registro de asistencia será mucho más automatizado y sobretodo habrá un control directo.
-*
-*
-*
-*
-*
-*
-*
-
 
