@@ -44,4 +44,3 @@ Además de esto, la manera de difusión sería completamente digital y a través
 
 
 Con este proceso el registro de asistencia será mucho más automatizado y sobretodo habrá un control directo.
-
